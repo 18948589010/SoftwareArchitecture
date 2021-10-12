@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="show_text">is you</string>
+    <string name="text_line">123</string>
+    <string name="reminder">reminder</string>
+    <string name="done">done</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buffering">1</string>
+</resources>

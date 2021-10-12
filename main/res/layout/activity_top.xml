@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:navigationIcon="@drawable/ic_baseline_live_tv_24"
+        app:title="网络电视">
+
+        <Button
+            android:id="@+id/btn_more"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="8dp"
+            android:background="@drawable/ic_baseline_more_horiz_24" />
+        <Button
+            android:id="@+id/btn_scanner"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="8dp"
+            android:background="@drawable/ic_baseline_qr_code_scanner_24" />
+        <Button
+            android:id="@+id/btn_search"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="right"
+
+            android:background="@drawable/ic_baseline_search_24" />
+    </androidx.appcompat.widget.Toolbar>
+
+</LinearLayout>

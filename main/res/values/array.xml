@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name">
+        <item>视频1</item>
+        <item>视频2</item>
+        <item>视频3</item>
+        <item>视频4</item>
+        <item>视频5</item>
+        <item>视频6</item>
+        <item>视频7</item>
+        <item>视频8</item>
+        <item>视频9</item>
+        <item>视频10</item>
+        <item>视频11</item>
+        <item>视频12</item>
+        <item>视频13</item>
+        <item>视频14</item>
+        <item>视频15</item>
+        <item>视频16</item>
+        <item>视频17</item>
+        <item>视频18</item>
+        <item>视频19</item>
+        <item>视频20</item>
+    </string-array>
+    <string-array name="addr">
+        <item>https://v-cdn.zjol.com.cn/280443.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276982.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276984.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276985.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276986.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276987.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276988.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276989.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276990.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276991.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276992.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276993.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276994.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276996.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/276998.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/277000.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/277001.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/277002.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/277003.mp4</item>
+        <item>https://v-cdn.zjol.com.cn/277004.mp4</item>
+
+
+    </string-array>
+</resources>
